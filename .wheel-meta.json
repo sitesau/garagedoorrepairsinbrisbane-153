@@ -1,0 +1,22 @@
+{
+  "wheel_id": 713,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsinbrisbane-153",
+  "project": "garage-door-repairs-brisbane-suburb-guide-fbac4a5374f4ba02868f1",
+  "parent_t1_ref": "garagedoorrepairsinbrisbane-014",
+  "node_role": "buffer",
+  "money_target": "garagedoorrepairsinbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane suburb guide",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsinbrisbane-153/",
+  "tier": "T2",
+  "writeback_nonce": "48326a3dacfd7fb0",
+  "links": [
+    {
+      "target_url": "https://garage-door-repairs-brisbane-garagedoorrepairsinbrisbane-674d45.gitlab.io/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
